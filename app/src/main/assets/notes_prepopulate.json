@@ -1,0 +1,46 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "title": "Hello world!",
+      "text": "I created a json! yay!",
+      "date": 0,
+      "color": 3
+    },
+    {
+      "id": 2,
+      "title": "Tags",
+      "text": "The tags are for marking different type of notes. Ideally there would be a sorting",
+      "date": 1651431366000,
+      "color": 2
+    },
+    {
+      "id": 3,
+      "title": "Really long title that does not fit into the screen",
+      "text": "Also the note itself is pretty long and also\nmulti\nline\nup to 10 lines!\n\n\n\n\n\ncan see me, but not the next line\ncan't see",
+      "date": 1651432366000,
+      "color": 1
+    },
+    {
+      "id": 4,
+      "title": "This one does not have a tag",
+      "text": "so the tag is hidden",
+      "date": 1651431366000,
+      "color": 0
+    },
+    {
+      "id": 5,
+      "title": "Sorting",
+      "text": "the sorting is done by date, which is reasonable",
+      "date": 1251431366000,
+      "color": 5
+    },
+    {
+      "id": 6,
+      "title": "List",
+      "text": "By the way, it's a recycler view, so you can see this note by scrolling down, yay",
+      "date": 125143136600,
+      "color": 4
+    }
+  ]
+}

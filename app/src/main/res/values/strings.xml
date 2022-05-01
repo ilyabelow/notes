@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="text_hint">Write something awesome!</string>
+    <string name="title_hint">Title goes here</string>
+    <string name="titleToText">Text:</string>
+    <string name="titleToTitle">Title:</string>
+    <string name="titleToColor">Color:</string>
+    <string name="cancelButton">Cancel</string>
+    <string name="saveButton">Save</string>
+    <string name="backButton">Back</string>
+
+    <string name="titlePrompt">Title:</string>
+    <string name="textPrompt">Note itself:</string>
+    <string name="tagPrompt">Chose tag:</string>
+    <string name="editButton">Edit</string>
+    <string name="deleteButton">Delete</string>
+</resources>
